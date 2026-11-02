@@ -127,7 +127,7 @@ You can use any value as `_id`—strings, numbers, custom objects—as long as i
 
 ## Documents and Collections (25 minutes)
 
-![The hierarchy of collections and documents](https://git.generalassemb.ly/ENT-Java/intro-to-mongodb/blob/main/Assets/document-collection-hierarchy.png)
+![The hierarchy of collections and documents](./Assets/document-collection-hierarchy.png)
 
 #### Documents
 
